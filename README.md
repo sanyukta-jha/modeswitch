@@ -1,3 +1,5 @@
+![ModeSwitch](modeswitch_cover.png)
+
 # ModeSwitch
 
 *what you need tonight.*
