@@ -12,7 +12,7 @@ YouTube knows what you've watched. It doesn't explicitly know what you're here f
 ## Live Experience
 
 - 🎬 [Demo Video](https://youtu.be/ChU_RIpcaR4)
-- 📄 [Full Case Study (PDF)](https://github.com/sanyukta-jha/modeswitch/blob/main/ModeSwitch%20Case%20Study.pdf)
+- 📄 [Full Case Study (PDF)](https://sanyukta-jha.github.io/modeswitch/ModeSwitch%20Case%20Study.pdf)
 
 ---
 
